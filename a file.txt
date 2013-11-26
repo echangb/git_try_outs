@@ -1,0 +1,1 @@
+This file is given a name with a whitespace in it to test the function of solr's deletion by query.
