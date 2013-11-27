@@ -1,0 +1,2 @@
+This file is created in a different commmit: commit 2.
+If Coseen can see two new files, then everything is right.
